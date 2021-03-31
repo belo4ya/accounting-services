@@ -1,5 +1,5 @@
-from accounting import Accounting
-from to_excel import ExcelReporter
+from src.accounting import Accounting
+from src.to_excel import ExcelReporter
 
 
 INITIAL_ASSETS = {  # начальные активы
