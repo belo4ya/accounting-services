@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from transaction_types import TYPES
+from src.transaction_types import TYPES
 
 
 class Accounting:
